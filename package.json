@@ -1,0 +1,24 @@
+{
+  "name": "midterm-lab---api-endpoints-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpangilinann/MIDTERM-LAB---API-Endpoints-Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpangilinann/MIDTERM-LAB---API-Endpoints-Activity/issues"
+  },
+  "homepage": "https://github.com/mpangilinann/MIDTERM-LAB---API-Endpoints-Activity#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
